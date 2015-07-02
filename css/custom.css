@@ -1,0 +1,62 @@
+#productsbutton{
+    width: 200px;
+    height: 50px;
+    margin-left: 850px;
+    margin-top: 25px;
+    background-color:darkred;
+    color:white;
+}
+.checks{
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+.imagelogo{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.imageshop{
+    margin-top: 25px;
+    margin-left: 1000px;
+}
+.tagline{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 170px;
+}
+.statement{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 80px;
+}
+.line{
+    width: 75%;
+}
+.mouseclick{
+    margin-left: 630px;
+    margin-top: 270px;
+    
+}
+a{
+    color: white;
+    font-size: 30px;
+    margin-left: 850px;
+    display: inline;
+}
+#sexes{
+    background-color: darkseagreen;
+    height: 100px;
+}
+#men{
+    height: 100px;
+}
+#women{
+    height: 100px;
+}
+
+    
+    
+
